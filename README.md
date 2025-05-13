@@ -39,6 +39,8 @@ The Tech Quiz App provides an interactive quiz experience with the following fun
 
 ## Walkthrough video link: 
 
+https://drive.google.com/file/d/1sAflSVzPdOWl9JBYBO3J2tWofVWaNlEY/view?usp=sharing 
+
 The video demonstrates the component and end-to-end tests running and passing must be submitted.
 
 ## License:
