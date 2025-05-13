@@ -35,7 +35,9 @@ The Tech Quiz App provides an interactive quiz experience with the following fun
     React for the frontend user interface
 
 
-## Clone the repository: https://github.com/ThuyHoaSullivan/tech-quiz-app.git 
+## Clone the repository: 
+
+https://github.com/ThuyHoaSullivan/tech-quiz-app.git 
 
 ## Walkthrough video link: 
 
