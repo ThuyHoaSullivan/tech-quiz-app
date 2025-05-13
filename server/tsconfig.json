@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",  // or "CommonJS" based on your setup
+    "target": "ESNext",
+    "moduleResolution": "node",  // This helps Node.js find modules correctly
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "esModuleInterop": true, // Ensures compatibility with ESM and CommonJS
+    "resolveJsonModule": true,  // Enable JSON imports if needed
+    "strict": true,  // Optional, but helps catch issues early
+    "skipLibCheck": true,  // Optional, may help with large projects
+    "composite": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
